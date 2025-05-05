@@ -61,16 +61,12 @@ The implementation is organized into interactive notebooks that explain each com
 </p>
 
 
+---
 
-@article{https://doi.org/10.5281/zenodo.1207631,
-  doi = {10.5281/ZENODO.1207631},
-  url = {https://zenodo.org/record/1207631},
-  author = {Ha, David and Schmidhuber, Jürgen},
-  title = {World Models},
-  publisher = {Zenodo},
-  year = {2018},
-  copyright = {Creative Commons Attribution 4.0}
-}
+[@Ha2018WorldModels](https://doi.org/10.5281/zenodo.1207631)  
+Ha, David and Schmidhuber, Jürgen. "World Models." Zenodo, 2018. [Link to paper](https://zenodo.org/record/1207631).  
+Copyright: Creative Commons Attribution 4.0.
+
 
 ---
 ## License
